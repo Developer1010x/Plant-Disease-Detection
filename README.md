@@ -58,7 +58,7 @@ Or launch the notebook for training:
 jupyter notebook freshplant.ipynb
 
 
-<img src="ScreenShots/gui_sample.png" width="500"/>
+
 📚 Datasets Used
 
 PlantVillage Dataset
@@ -95,7 +95,7 @@ Aditya S
 S Prajwall Narayana
 Dr. Suma B
 (RV College of Engineering, Bengaluru)
-📄 Read Full Paper (PDF) in the folder (github)
+
 
 📬 Contact
 
