@@ -48,14 +48,32 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-Or install key libraries manually:
-
-pip install tensorflow numpy flask nltk opencv-python
-🏁 Run the App
-python gui.py
-Or launch the notebook for training:
 ```
+
+### 🏁 Setup & Run
+
+The chatbot needs an intents file and a trained model before the GUI can run:
+
+```bash
+# 1. Scrape disease info and generate intents.json
+python web.py
+
+# 2. Train the chatbot (produces data.pth)
+python train.py
+
+# 3. Launch the GUI (needs the ResNet model file reseven.h5 in this folder)
+python gui.py
+```
+
+In the GUI, click **Upload Leaf** to pick a leaf image — the ResNet model
+predicts the disease and the chatbot automatically returns treatment guidance.
+You can also type a disease name directly to query the bot.
+
+To explore training/evaluation interactively:
+
+```bash
 jupyter notebook freshplant.ipynb
+```
 
 
 

@@ -1,0 +1,9 @@
+torch
+numpy
+nltk
+tensorflow
+imageio
+Pillow
+opencv-python
+beautifulsoup4
+requests
