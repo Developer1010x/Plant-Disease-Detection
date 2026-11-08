@@ -1,6 +1,16 @@
 # 🌿 Plant Disease Classification with ResNet50
 
+[![IEEE Xplore: CSITSS 2024](https://img.shields.io/badge/IEEE_Xplore-CSITSS_2024-00629B)](https://doi.org/10.1109/csitss64042.2024.10816835) ![Python: 3](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white) ![TensorFlow: ResNet50](https://img.shields.io/badge/TensorFlow-ResNet50-FF6F00?logo=tensorflow&logoColor=white) [![License: MIT](https://img.shields.io/badge/License-MIT-2EA44F)](LICENSE)
+
 A deep learning-based solution for **accurate plant disease detection** using the **ResNet50 architecture**, enriched with a user-friendly **chatbot interface** for real-time interaction, information, and preventive recommendations.
+
+---
+
+## 📄 Paper
+
+> Abhishek R, Aditya S, **S Prajwall Narayana** and Suma B, "An Empirical Study of ResNet50 Hyperparameter Tuning for Plant Disease Classification," *IEEE CSITSS 2024*. [doi:10.1109/csitss64042.2024.10816835](https://doi.org/10.1109/csitss64042.2024.10816835)
+
+This repository holds the code that accompanies the paper.
 
 ---
 
@@ -121,3 +131,7 @@ Dr. Suma B
 
 
 ---
+
+---
+
+Built by **S. Prajwall Narayana** · [Portfolio](https://sprajwallnarayana.vercel.app) · [GitHub](https://github.com/Developer1010x)
